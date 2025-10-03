@@ -1,0 +1,53 @@
+# Insurance Claims NLP Analyzer
+
+AI-powered system for automated insurance claims analysis built for Liberty Mutual - Solaria Labs Innovation Initiative.
+
+## Overview
+
+This application uses Natural Language Processing (NLP) to automatically analyze insurance claim descriptions and provide:
+- Automatic severity classification (Low, Medium, High)
+- Named entity extraction (dates, locations, vehicles, monetary amounts)
+- Fraud indicator detection
+- Claim summarization
+- Sentiment analysis
+
+## Features
+
+### Core Capabilities
+- **Severity Classification**: Automatically categorizes claims based on keyword analysis and sentiment
+- **Entity Extraction**: Identifies and extracts key information including:
+  - Locations (addresses, cities, states)
+  - Dates and times
+  - Monetary amounts
+  - Vehicle information
+  - Organizations
+- **Fraud Detection**: Flags potential fraud indicators based on:
+  - Suspicious keywords
+  - Conflicting information
+  - Vague descriptions
+  - Excessive urgency language
+- **Batch Processing**: Analyze multiple claims simultaneously with visualization dashboard
+- **Interactive Web Interface**: User-friendly Streamlit application
+
+## Technology Stack
+
+- **Python 3.8+**
+- **spaCy**: Named Entity Recognition
+- **Transformers (HuggingFace)**: Sentiment analysis using DistilBERT
+- **Streamlit**: Web application framework
+- **Plotly**: Interactive visualizations
+- **Pandas**: Data manipulation
+
+## Installation
+
+### Prerequisites
+- Python 3.8 or higher
+- pip package manager
+
+### Step 1: Clone or Download the Project
+
+Download and extract the project files to your local machine.
+
+### Step 2: Install Dependencies
+```bash
+pip install -r requirements.txt
