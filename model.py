@@ -2,24 +2,8 @@ import spacy
 from transformers import pipeline
 import re
 from datetime import datetime
-import subprocess
-import sys
 
-# Function to download spacy model if not available
-def download_spacy_model():
-    """Download spacy model if not already installed"""
-    try:
-        spacy.load("en_core_web_sm")
-        print("✓ spaCy model already installed")
-    except OSError:
-        print("Downloading spaCy model 'en_core_web_sm'...")
-        subprocess.check_call([sys.executable, "-m", "spacy", "download", "en_core_web_sm"])
-        print("✓ spaCy model downloaded successfully")
-
-# Download model if needed (only runs once)
-download_spacy_model()
-
-# Load models
+# Load models - no auto-download needed
 nlp = spacy.load("en_core_web_sm")
 sentiment_analyzer = pipeline("sentiment-analysis", model="distilbert-base-uncased-finetuned-sst-2-english")
 
