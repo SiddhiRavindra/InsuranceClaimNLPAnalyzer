@@ -1,7 +1,8 @@
-streamlit>=1.39.0
-transformers>=4.46.0
-torch>=2.5.0
-spacy>=3.8.0
-pandas>=2.2.0
-numpy>=1.26.0
-plotly>=5.24.0
+streamlit
+transformers
+torch
+spacy
+pandas
+numpy
+plotly
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-tar.gz
