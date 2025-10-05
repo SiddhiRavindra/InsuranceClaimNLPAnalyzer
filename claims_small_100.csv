@@ -1,0 +1,101 @@
+claim_id,description,actual_severity,filing_date
+CLM00001,"Minor bumper contact in parking garage on August 21, 2025. 2020 Chevrolet Silverado. Both parties exchanged information.",Low,2025-08-21
+CLM00002,"Bird damage to paint on hood on 328 days ago. 2018 Jeep Wrangler. Etching visible, needs touch-up.",Low,2024-11-11
+CLM00003,"Small scratch along headlight noticed on March 10, 2025. Unknown cause. 2020 Toyota Camry parked at Medford Mall.",Low,2025-03-10
+CLM00004,"URGENT: Major collision on November 11, 2024 at Maple Drive and Elm Street in Waltham. My 2020 Chevrolet Silverado was hit by driver who ran red light. Extensive damage to trunk, headlight, and passenger side. Airbags deployed. Multiple injuries. Police and ambulance responded. Need immediate assistance.",High,2024-11-11
+CLM00005,"Hit and run while parked on January 03, 2025 at Malden Parking Garage. 2019 Nissan Altima has significant damage to quarter panel. Witnesses provided partial plate number.",Medium,2025-01-03
+CLM00006,Broken headlight discovered on 03/23/2025 at Waltham Plaza. Likely vandalism while parked. 2021 Mazda CX-5.,Low,2025-03-23
+CLM00007,"Bird damage to paint on hood on October 21, 2024. 2020 Chevrolet Silverado. Etching visible, needs touch-up.",Low,2024-10-21
+CLM00008,"Shopping cart dent on tail light at Medford shopping center on October 13, 2024. 2022 Mercedes-Benz C-Class. Superficial damage only.",Low,2024-10-13
+CLM00009,Broken hood discovered on 333 days ago at Malden Mall. Likely vandalism while parked. 2020 Toyota Camry.,Low,2024-11-06
+CLM00010,"Backed into pole in parking lot on 05/05/2025 at Springfield Mall. 2022 BMW X5 has dent in tail light. My fault, estimated repair cost $3,500.",Medium,2025-05-05
+CLM00011,"Vehicle struck by falling branch during storm on October 26, 2024. 2019 Audi A4 has damage to quarter panel and windshield. Tree maintenance company notified.",Medium,2024-10-26
+CLM00012,Shopping cart dent on windshield at Springfield shopping center on 10/04/2025. 2019 Nissan Altima. Superficial damage only.,Low,2025-10-04
+CLM00013,Hit by opening car door on 09/11/2025 at Quincy Shopping Center. Damage to front bumper of my 2018 Ford F-150. Other party admitted fault.,Medium,2025-09-11
+CLM00014,"Fender bender on May 19, 2025 at Lake Street in Malden. 2019 Audi A4 damage to rear bumper. Both drivers remained at scene.",Medium,2025-05-19
+CLM00015,Fender bender on 09/08/2025 at Washington Blvd in Lowell. 2022 BMW X5 damage to trunk. Both drivers remained at scene.,Medium,2025-09-08
+CLM00016,Minor parking lot incident on 232 days ago. Small scratch on rear bumper of my 2020 Kia Sorento. No injuries. Other party left contact information.,Low,2025-02-15
+CLM00017,Vehicle struck by falling branch during storm on 244 days ago. 2020 Chevrolet Silverado has damage to rear bumper and windshield. Tree maintenance company notified.,Medium,2025-02-03
+CLM00018,Minor parking lot incident on 02/02/2025. Small scratch on headlight of my 2019 Infiniti Q50. No injuries. Other party left contact information.,Low,2025-02-02
+CLM00019,Broken headlight discovered on 10/30/2024 at Springfield Shopping Center. Likely vandalism while parked. 2019 Audi A4.,Low,2024-10-30
+CLM00020,Minor parking lot incident on 90 days ago. Small scratch on quarter panel of my 2020 Toyota Camry. No injuries. Other party left contact information.,Low,2025-07-07
+CLM00021,"Devastating hail storm on 208 days ago damaged 2021 Volvo XC90 and property. Multiple dents across hood, roof, and trunk. Windows cracked. Vehicle requires extensive repairs. Storm damage assessment needed.",High,2025-03-11
+CLM00022,Minor parking lot incident on 280 days ago. Small scratch on hood of my 2020 Kia Sorento. No injuries. Other party left contact information.,Low,2024-12-29
+CLM00023,Broken rear bumper discovered on 03/18/2025 at Malden Plaza. Likely vandalism while parked. 2021 Mazda CX-5.,Low,2025-03-18
+CLM00024,Minor collision at stoplight on 340 days ago. 2021 Volkswagen Jetta bumped from behind. Damage to driver side door.,Medium,2024-10-30
+CLM00025,Collision with deer on Church St near Medford on 06/09/2025. 2018 Dodge Ram has front-end damage including hood and windshield. Police report available.,Medium,2025-06-09
+CLM00026,"Vehicle struck by falling branch during storm on March 30, 2025. 2020 Toyota Camry has damage to driver side door and windshield. Tree maintenance company notified.",Medium,2025-03-30
+CLM00027,"Backed into pole in parking lot on 12/10/2024 at Lowell Shopping Center. 2019 Infiniti Q50 has dent in driver side door. My fault, estimated repair cost $3,500.",Medium,2024-12-10
+CLM00028,"Bird damage to paint on hood on 104 days ago. 2021 Volvo XC90. Etching visible, needs touch-up.",Low,2025-06-23
+CLM00029,Windshield chip from road debris on 327 days ago while driving on Elm Street. 2019 Infiniti Q50. Small chip needs repair before it spreads.,Low,2024-11-12
+CLM00030,Hit by opening car door on 80 days ago at Hartford Plaza. Damage to rear bumper of my 2022 Acura MDX. Other party admitted fault.,Medium,2025-07-17
+CLM00031,Minor collision at stoplight on 03/04/2025. 2022 Mercedes-Benz C-Class bumped from behind. Damage to headlight.,Medium,2025-03-04
+CLM00032,Hit by opening car door on 265 days ago at Lynn Parking Garage. Damage to hood of my 2020 Subaru Outback. Other party admitted fault.,Medium,2025-01-13
+CLM00033,"Broken front bumper discovered on November 29, 2024 at Newton Shopping Center. Likely vandalism while parked. 2022 BMW X5.",Low,2024-11-29
+CLM00034,"Collision with deer on Highland Ave near Worcester on May 09, 2025. 2020 Toyota Camry has front-end damage including tail light and driver side door. Police report available.",Medium,2025-05-09
+CLM00035,"Bird damage to paint on hood on August 21, 2025. 2020 Lexus RX. Etching visible, needs touch-up.",Low,2025-08-21
+CLM00036,"Minor collision at stoplight on March 13, 2025. 2019 Infiniti Q50 bumped from behind. Damage to windshield.",Medium,2025-03-13
+CLM00037,Minor collision at stoplight on 187 days ago. 2021 Tesla Model 3 bumped from behind. Damage to tail light.,Medium,2025-04-01
+CLM00038,"Side-swiped on highway near Hartford on December 05, 2024. 2020 Toyota Camry has damage to front bumper and fender. Other driver cited for unsafe lane change.",Medium,2024-12-05
+CLM00039,Minor scrape on driver side door while parking on 50 days ago at Springfield Mall. 2020 Chevrolet Silverado. Paint transfer visible.,Low,2025-08-16
+CLM00040,URGENT: 2019 Audi A4 stolen from Springfield Parking Garage on 278 days ago. Vehicle found abandoned three days later with severe damage. rear bumper and side mirror destroyed. Interior vandalized. Police report filed. Recovery investigation ongoing.,High,2024-12-31
+CLM00041,"Rear-ended at intersection of River Road and Lake Street in Newton on September 26, 2025. My 2018 Dodge Ram sustained moderate damage to fender. Police report filed.",Medium,2025-09-26
+CLM00042,"Shopping cart dent on fender at Providence shopping center on December 22, 2024. 2020 Lexus RX. Superficial damage only.",Low,2024-12-22
+CLM00043,"Minor scrape on hood while parking on October 12, 2024 at Somerville Shopping Center. 2022 Acura MDX. Paint transfer visible.",Low,2024-10-12
+CLM00044,"Hit and run while parked on December 01, 2024 at Malden Parking Garage. 2019 Audi A4 has significant damage to trunk. Witnesses provided partial plate number.",Medium,2024-12-01
+CLM00045,"Bird damage to paint on hood on 10/15/2024. 2021 Volkswagen Jetta. Etching visible, needs touch-up.",Low,2024-10-15
+CLM00046,Minor parking lot incident on 05/14/2025. Small scratch on rear bumper of my 2022 BMW X5. No injuries. Other party left contact information.,Low,2025-05-14
+CLM00047,Fender bender on 113 days ago at Park Ave in Springfield. 2019 Hyundai Elantra damage to trunk. Both drivers remained at scene.,Medium,2025-06-14
+CLM00048,Small dent from hail storm on 113 days ago. 2022 BMW X5 parked at Brookline Plaza. quarter panel affected.,Low,2025-06-14
+CLM00049,Minor scrape on headlight while parking on 01/28/2025 at Springfield Shopping Center. 2019 Hyundai Elantra. Paint transfer visible.,Low,2025-01-28
+CLM00050,Minor scrape on hood while parking on 02/02/2025 at Malden Shopping Center. 2020 Chevrolet Silverado. Paint transfer visible.,Low,2025-02-02
+CLM00051,"Collision with deer on Summer St near Quincy on September 30, 2025. 2021 Volkswagen Jetta has front-end damage including passenger side and rear bumper. Police report available.",Medium,2025-09-30
+CLM00052,Windshield chip from road debris on 262 days ago while driving on Broadway. 2020 Kia Sorento. Small chip needs repair before it spreads.,Low,2025-01-16
+CLM00053,Broken headlight discovered on 234 days ago at Hartford Mall. Likely vandalism while parked. 2019 Nissan Altima.,Low,2025-02-13
+CLM00054,Windshield chip from road debris on 22 days ago while driving on School Road. 2021 Tesla Model 3. Small chip needs repair before it spreads.,Low,2025-09-13
+CLM00055,"Tree fell on 2020 Lexus RX during severe storm on 92 days ago at 8879 Main St, Hartford. Roof crushed, all windows broken. Vehicle not drivable. Major structural damage. Storm damage claim.",High,2025-07-05
+CLM00056,"Bird damage to paint on hood on September 28, 2025. 2021 Mazda CX-5. Etching visible, needs touch-up.",Low,2025-09-28
+CLM00057,Tire damage from pothole on Hill Ave on 16 days ago. 2019 Infiniti Q50. Tire needs replacement.,Low,2025-09-19
+CLM00058,Minor scrape on tail light while parking on 07/15/2025 at Malden Plaza. 2019 Honda Accord. Paint transfer visible.,Low,2025-07-15
+CLM00059,Fender bender on 10/10/2024 at Forest Drive in Lowell. 2018 Jeep Wrangler damage to headlight. Both drivers remained at scene.,Medium,2024-10-10
+CLM00060,"Multi-vehicle pileup on 12/24/2024 on highway near Newton. 2020 GMC Sierra sandwiched between two vehicles. Damage to front and rear including fender, headlight, trunk. Major traffic incident with police investigation ongoing.",High,2024-12-24
+CLM00061,Tire damage from pothole on School Road on 19 days ago. 2020 Kia Sorento. Tire needs replacement.,Low,2025-09-16
+CLM00062,"URGENT: Major collision on 259 days ago at Cedar Lane and Church St in Hartford. My 2020 GMC Sierra was hit by driver who ran red light. Extensive damage to trunk, tail light, and rear bumper. Airbags deployed. Multiple injuries. Police and ambulance responded. Need immediate assistance.",High,2025-01-19
+CLM00063,Shopping cart dent on windshield at Malden shopping center on 04/25/2025. 2020 Toyota Camry. Superficial damage only.,Low,2025-04-25
+CLM00064,Minor collision at stoplight on 217 days ago. 2020 Chevrolet Silverado bumped from behind. Damage to trunk.,Medium,2025-03-02
+CLM00065,Hit and run while parked on 07/14/2025 at Springfield Plaza. 2022 BMW X5 has significant damage to hood. Witnesses provided partial plate number.,Medium,2025-07-14
+CLM00066,Fender bender on 12/06/2024 at Cedar Lane in Hartford. 2021 Volvo XC90 damage to side mirror. Both drivers remained at scene.,Medium,2024-12-06
+CLM00067,Minor parking lot incident on 294 days ago. Small scratch on rear bumper of my 2019 Hyundai Elantra. No injuries. Other party left contact information.,Low,2024-12-15
+CLM00068,Broken quarter panel discovered on 221 days ago at Somerville Parking Garage. Likely vandalism while parked. 2019 Hyundai Elantra.,Low,2025-02-26
+CLM00069,Minor collision at stoplight on 01/11/2025. 2018 Dodge Ram bumped from behind. Damage to side mirror.,Medium,2025-01-11
+CLM00070,Minor parking lot incident on 11/15/2024. Small scratch on trunk of my 2022 Mercedes-Benz C-Class. No injuries. Other party left contact information.,Low,2024-11-15
+CLM00071,"Small dent from hail storm on November 24, 2024. 2021 Tesla Model 3 parked at Waltham Plaza. hood affected.",Low,2024-11-24
+CLM00072,"Fender bender on July 21, 2025 at Elm Street in Worcester. 2021 Volkswagen Jetta damage to driver side door. Both drivers remained at scene.",Medium,2025-07-21
+CLM00073,Minor parking lot incident on 203 days ago. Small scratch on front bumper of my 2019 Infiniti Q50. No injuries. Other party left contact information.,Low,2025-03-16
+CLM00074,Minor scrape on fender while parking on 44 days ago at Malden Parking Garage. 2019 Honda Accord. Paint transfer visible.,Low,2025-08-22
+CLM00075,"Broken fender discovered on January 03, 2025 at Hartford Mall. Likely vandalism while parked. 2018 Dodge Ram.",Low,2025-01-03
+CLM00076,Windshield chip from road debris on 03/14/2025 while driving on Washington Blvd. 2018 Jeep Wrangler. Small chip needs repair before it spreads.,Low,2025-03-14
+CLM00077,"Head-on collision on Church St near Worcester on November 07, 2024. 2019 Hyundai Elantra sustained catastrophic front-end damage. Engine likely destroyed. Airbags deployed. Emergency services on scene. Vehicle total loss.",High,2024-11-07
+CLM00078,Small dent from hail storm on 05/24/2025. 2021 Volvo XC90 parked at Brookline Plaza. headlight affected.,Low,2025-05-24
+CLM00079,Minor parking lot incident on 24 days ago. Small scratch on front bumper of my 2020 Lexus RX. No injuries. Other party left contact information.,Low,2025-09-11
+CLM00080,Minor parking lot incident on 11/23/2024. Small scratch on side mirror of my 2019 Honda Accord. No injuries. Other party left contact information.,Low,2024-11-23
+CLM00081,"Shopping cart dent on tail light at Quincy shopping center on September 04, 2025. 2020 GMC Sierra. Superficial damage only.",Low,2025-09-04
+CLM00082,Side-swiped on highway near Cambridge on 08/26/2025. 2018 Dodge Ram has damage to rear bumper and hood. Other driver cited for unsafe lane change.,Medium,2025-08-26
+CLM00083,Minor scrape on hood while parking on 137 days ago at Providence Mall. 2019 Honda Accord. Paint transfer visible.,Low,2025-05-21
+CLM00084,Broken passenger side discovered on 216 days ago at Brookline Plaza. Likely vandalism while parked. 2019 Hyundai Elantra.,Low,2025-03-03
+CLM00085,"Minor collision at stoplight on June 29, 2025. 2021 Volkswagen Jetta bumped from behind. Damage to hood.",Medium,2025-06-29
+CLM00086,Broken tail light discovered on 09/28/2025 at Lowell Mall. Likely vandalism while parked. 2020 Chevrolet Silverado.,Low,2025-09-28
+CLM00087,Minor parking lot incident on 08/18/2025. Small scratch on tail light of my 2018 Ford F-150. No injuries. Other party left contact information.,Low,2025-08-18
+CLM00088,Fender bender on 115 days ago at Main St in Boston. 2020 Lexus RX damage to hood. Both drivers remained at scene.,Medium,2025-06-12
+CLM00089,Small dent from hail storm on 7 days ago. 2021 Tesla Model 3 parked at Brookline Shopping Center. windshield affected.,Low,2025-09-28
+CLM00090,"Tire damage from pothole on Park Ave on April 15, 2025. 2020 Subaru Outback. Tire needs replacement.",Low,2025-04-15
+CLM00091,"Collision with deer on Main St near Springfield on September 03, 2025. 2020 Lexus RX has front-end damage including headlight and trunk. Police report available.",Medium,2025-09-03
+CLM00092,Vehicle damaged by shopping cart blown by wind on 247 days ago. 2019 Hyundai Elantra has dents on hood. Security footage available.,Medium,2025-01-31
+CLM00093,Small dent from hail storm on 253 days ago. 2020 Toyota Camry parked at Springfield Plaza. hood affected.,Low,2025-01-25
+CLM00094,"Backed into pole in parking lot on August 23, 2025 at Springfield Mall. 2021 Volvo XC90 has dent in side mirror. My fault, estimated repair cost $3,500.",Medium,2025-08-23
+CLM00095,Rear-ended at intersection of School Road and Main St in Hartford on 212 days ago. My 2021 Mazda CX-5 sustained moderate damage to headlight. Police report filed.,Medium,2025-03-07
+CLM00096,Collision with deer on Broadway near Springfield on 07/03/2025. 2020 GMC Sierra has front-end damage including rear bumper and passenger side. Police report available.,Medium,2025-07-03
+CLM00097,"Vehicle struck by falling branch during storm on June 04, 2025. 2020 Lexus RX has damage to side mirror and windshield. Tree maintenance company notified.",Medium,2025-06-04
+CLM00098,Minor bumper contact in parking garage on 03/22/2025. 2021 Volkswagen Jetta. Both parties exchanged information.,Low,2025-03-22
+CLM00099,Rear-ended at intersection of School Road and Church St in Lowell on 76 days ago. My 2019 Infiniti Q50 sustained moderate damage to windshield. Police report filed.,Medium,2025-07-21
+CLM00100,Small dent from hail storm on 256 days ago. 2022 BMW X5 parked at Worcester Plaza. driver side door affected.,Low,2025-01-22
